@@ -29,11 +29,11 @@ An efficient and user-friendly online exam system built with PHP and MySQL.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/online-examination-system.git
+   git clone https://github.com/yourusername/online-exam-system.git
    ```
 2. **Navigate to the project:**
    ```bash
-   cd online-examination-system
+   cd online-exam-system
    ```
 3. **Setup database:**
    - Create a database named `project`.
@@ -44,7 +44,7 @@ An efficient and user-friendly online exam system built with PHP and MySQL.
    ```
 5. **Run on localhost:**
    - Start your server (e.g., XAMPP, WAMP).
-   - Open `http://localhost/online-examination-system` in your browser.
+   - Open `http://localhost/online-exam-system` in your browser.
 
 ## Usage
 
